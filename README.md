@@ -5,12 +5,11 @@
 # BOT
 
 # 📌 Table of contents
-* [Features](#rocket-features)
-* [Features](#rocket-features)
-* [Installation](#construction_worker-installation)
-* [Getting Started](#runner-getting-started)
-* [FAQ](#postbox-faq)
-* [License](#closed_book-license)
+* [Features](#🚀-Features)
+* [Installation](#👷-Installation)
+* [Getting Started](#🏃-Getting-started)
+* [FAQ](#❔-Faq)
+* [License](#📕-License)
 
 # 🚀 Features
 * Have a bot to help with your group's tasks.
