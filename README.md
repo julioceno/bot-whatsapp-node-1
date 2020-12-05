@@ -2,14 +2,14 @@
     <img src=".github/logo.svg" width="300">
 </p>
 
-# BOT
+# BOT whatsapp in node
 
 # 📌 Table of contents
-* [Features](#🚀-Features)
-* [Installation](#👷-Installation)
-* [Getting Started](#🏃-Getting-started)
-* [FAQ](#❔-Faq)
-* [License](#📕-License)
+* Features
+* Installation
+* Getting started
+* Faq
+* License
 
 # 🚀 Features
 * Have a bot to help with your group's tasks.
